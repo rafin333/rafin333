@@ -6,7 +6,10 @@
 <p>
   Welcome to my page! <br/>
   I'm <b>Mashrur Rahman Rafin</b>, a passionate MERN Stack Developer from 
-  <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Dhaka, Bangladesh</b>, 
+ <img src="https://flagcdn.com/16x12/bd.png" 
+       srcset="https://flagcdn.com/32x24/bd.png 2x, https://flagcdn.com/48x36/bd.png 3x" 
+       width="16" height="12" alt="Bangladesh flag"/>  
+  <b>Dhaka, Bangladesh</b>, 
 </p>
 
 ---
@@ -33,9 +36,9 @@
 
 ### 📫 Let's Connect
 
-- Portfolio: (https://rafin333-portfolio-frontend.vercel.app/)
-- LinkedIn: [https://linkedin.com/in/yourprofile][(https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/rafin333/))
-- Email: you@example.com
+- Portfolio: https://rafin333-portfolio-frontend.vercel.app/
+- LinkedIn: https://www.linkedin.com/in/rafin333/
+- Email: mashrur.rahman333@gmail.com
 
 ---
 
