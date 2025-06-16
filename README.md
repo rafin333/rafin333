@@ -5,7 +5,7 @@
 
 <p>
   Welcome to my page! <br/>
-  I'm <b>Mashrur Rahman Rafin</b>, a passionate MERN Stack Developer from 
+  I'm <b>Mashrur Rahman Rafin</b>, a passionate Frontend Developer from 
   <img src="https://flagcdn.com/16x12/bd.png" 
        srcset="https://flagcdn.com/32x24/bd.png 2x, https://flagcdn.com/48x36/bd.png 3x" 
        width="16" height="12" alt="Bangladesh flag"/>  
@@ -27,9 +27,6 @@
   <img alt="Mongoose" src="https://img.shields.io/badge/-Mongoose-880000?style=flat-square&logo=mongoose&logoColor=white" />
   <img alt="Tailwind CSS" src="https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
   <img alt="Framer Motion" src="https://img.shields.io/badge/-Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white" />
-  <img alt="GitHub Actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
-  <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
 </p>
 
 ---
@@ -48,11 +45,17 @@
 
 ### 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rafin333&show_icons=true&theme=radical&hide=prs" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafin333&layout=compact&theme=radical" />
-</p>
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=rafin333&show_icons=true&theme=radical&hide=prs" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafin333&layout=compact&theme=radical" />
+    </td>
+  </tr>
+</table>
+
 
 ---
 
