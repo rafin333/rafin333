@@ -38,7 +38,7 @@
 
 - Portfolio: https://rafin333-portfolio-frontend.vercel.app/
 - LinkedIn: https://www.linkedin.com/in/rafin333/
-- Email: <a href="mailto:mashrur.rahman333@gmail.com">mashrur.rahman333@gmail.com</a>
+- Email: mashrur.rahman333@gmail.com</a>
 
 ---
 
