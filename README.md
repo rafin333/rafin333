@@ -33,7 +33,7 @@
 
 ### 📫 Let's Connect
 
-- Portfolio: [https://your-portfolio-url.com]([https://your-portfolio-url.com](https://rafin333-portfolio-frontend.vercel.app/))
+- Portfolio: (https://rafin333-portfolio-frontend.vercel.app/)
 - LinkedIn: [https://linkedin.com/in/yourprofile][(https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/rafin333/))
 - Email: you@example.com
 
