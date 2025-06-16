@@ -63,7 +63,7 @@
 
 - 🌐 [Portfolio Website](https://rafin333-portfolio-frontend.vercel.app/)
 - 💼 [LinkedIn](https://www.linkedin.com/in/rafin333/)
-- 📧 [Email Me](mailto:mashrur.rahman333@gmail.com)
+- 📧 [mashrur.rahman333@gmail.com](mailto:mashrur.rahman333@gmail.com)
 
 ---
 
