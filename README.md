@@ -31,18 +31,6 @@
 
 ---
 
-### 📂 My Projects
-
-- 🕌 **Islamic App** – Prayer times, Hijri calendar, Sehri/Iftar countdown using Aladhan API  
-- 🛒 **E-commerce Storefront** – Full cart flow, dark/light mode, bKash payment (frontend only)  
-- 📚 **Arabic LMS** – Admin + User panel, PayPal subscription, leaderboard, role-based access  
-- 💬 **Real-Time Chat App** – Real-time communication with modern UI  
-- 👨‍💻 **Portfolio Website** – Fully responsive, animated portfolio built with Next.js and Tailwind CSS
-
-> Explore these in my pinned repositories or [click here](https://github.com/rafin333?tab=repositories).
-
----
-
 ### 📈 GitHub Stats
 
 <table>
@@ -56,14 +44,11 @@
   </tr>
 </table>
 
-
 ---
 
 ### 📫 Let's Connect
 
-- 🌐 [Portfolio Website](https://rafin333-portfolio-frontend.vercel.app/)
-- 💼 [LinkedIn](https://www.linkedin.com/in/rafin333/)
-- 📧 [mashrur.rahman333@gmail.com](mailto:mashrur.rahman333@gmail.com)
+🌐 [Portfolio Website](https://rafin333-portfolio-frontend.vercel.app/) &emsp; 💼 [LinkedIn](https://www.linkedin.com/in/rafin333/) &emsp; 📧 [Email ME](mailto:mashrur.rahman333@gmail.com)
 
 ---
 
